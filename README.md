@@ -1,4 +1,3 @@
-========================================================
 Facilitating the Selection of a Myoelectric Prosthesis 
 Using Virtual Reality for UpperLimb Amputee Patients
 A Proof of Concept
@@ -26,15 +25,11 @@ Jeanne Evrard and Gregoire van Oldeneel
 	–SteamVR, SteamVR_Input, StreamingAssets: imported SteamVR assets. Required for VR.
 	–_VRHands: Imported package for the model of the left hand.
 
-•UnityApp > Master_Thesis_VRforULA_june2020.exe: The executable file that contains the project
-
 •ArduinoInterface: Script to load on the Arduino micro-controller for inter-facing the electrodes.
-
-•Videos: The presentation videos of the different scenes and tasks.
 
 ========================================================
 
-REMARK: Be sure that the VR material and Arduino setup are well connected before trying to launch the game.
+REMARK: Make sure that the VR gear and the Arduino setup are well connected before trying to launch the game.
 	Trackers should be attached to the right game object.
 	By default, ForeArm is attached to device 3; LeftHand is attached to device 4. 
 	This can be changed inside the Unity project:
