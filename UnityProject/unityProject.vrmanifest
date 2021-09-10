@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.introvr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "E:\\StudentsProjects\\VRforULA_Additional_files\\VRforULA_Additional_files\\UnityProject\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Master_Thesis_VRforULA_june2020 [Testing]"
+        }
+      }
+    }
+  ]
+}
